@@ -1,3 +1,30 @@
+🚗 Full Stack Car Rental Website
+Built with: React · Tailwind CSS · GraphQL · Hygraph
+
+🔥 Features
+User Interface: Sleek, responsive design using React and Tailwind CSS
+
+GraphQL API: Efficient data fetching layer
+
+CMS Integration: Hygraph-powered backend for managing cars, categories, bookings
+
+Core App Functionality:
+
+Browse available cars
+
+View car details (model, pricing, availability)
+
+Book rentals with date selection
+
+🛠 Tech Stack
+Layer	Technology
+Frontend	React, Tailwind CSS
+Styling	Tailwind utility-first CSS
+API	GraphQL
+CMS/Backend	Hygraph (Headless CMS)
+Hosting	(Your choice — Vercel, Netlify, etc.)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
