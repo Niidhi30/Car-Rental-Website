@@ -1,7 +1,7 @@
-🚗 Full Stack Car Rental Website
+#🚗 Full Stack Car Rental Website
 Built with: React · Tailwind CSS · GraphQL · Hygraph
 
-🔥 Features
+#🔥 Features
 User Interface: Sleek, responsive design using React and Tailwind CSS
 
 GraphQL API: Efficient data fetching layer
@@ -16,7 +16,7 @@ View car details (model, pricing, availability)
 
 Book rentals with date selection
 
-🛠 Tech Stack
+#🛠 Tech Stack
 Layer	Technology
 Frontend	React, Tailwind CSS
 Styling	Tailwind utility-first CSS
